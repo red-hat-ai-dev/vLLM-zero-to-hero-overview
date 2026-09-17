@@ -42,6 +42,4 @@ This learning path is for anyone interested in learning how modern AI models are
 
 ## Questions or feedback
 
-Found an issue or have an idea? [Open an issue in this repository](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-overview/issues)
-
-Made for the vLLM community by Red Hat AI.
+Found an issue or have an idea where you can contribute? [Open an issue in this repository](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-overview/issues)
