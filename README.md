@@ -2,15 +2,10 @@
   <h1>vLLM Zero to Hero</h1>
   <p><strong>Pillar 1: vLLM - From Zero to Production</strong></p>
   <p>Learn vLLM through four practical steps: run a model, make it more efficient, measure its performance, and scale the workload.</p>
-  <p><a href="https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1"><strong>Start with Part 1 -&gt;</strong></a></p>
+  <p><a href="https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1"><strong>Start with Part 1</strong></a></p>
 </div>
 
 <br>
-
-```mermaid
-flowchart LR
-    A["01 - Run"] --> B["02 - Optimize"] --> C["03 - Benchmark"] --> D["04 - Scale"]
-```
 
 ## Choose your next step
 
@@ -18,7 +13,7 @@ Each step has its own repository and hands-on tutorial. Open a repository to get
 
 | | Focus | What you will do | Next step |
 | --- | --- | --- | --- |
-| **01 - Run** | **Run your first model with vLLM** | Get a model running and learn the fundamentals of serving with vLLM. | [**Run your first model ->**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1) |
+| **01 - Run** | **Run your first model with vLLM** | Get a model running and learn the fundamentals of serving with vLLM. | [**Run your first model**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1) |
 | **02 - Optimize** | **Make your models faster and smaller** | Use speculative decoding, quantization, and LLM Compressor to improve inference efficiency. | Coming soon |
 | **03 - Benchmark** | **Know how your model actually performs** | Use GuideLLM to test throughput, latency, and serving performance before you scale. | Coming soon |
 | **04 - Scale** | **Scale your inference workload** | Move from a single vLLM instance toward distributed serving with llm-d and Red Hat OpenShift AI. | Coming soon |
@@ -32,7 +27,7 @@ Part 1 is the first hands-on experience in the series. You will:
 - Send your first request
 - See what is happening behind the scenes
 
-[**Open the Part 1 repository ->**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1)
+[**Open the Part 1 repository**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1)
 
 ## Who this is for
 
@@ -44,6 +39,6 @@ This learning path is for anyone interested in learning how modern AI models are
 
 ## Questions or feedback
 
-Found an issue or have an idea? [Open an issue in this repository ->](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-overview/issues)
+Found an issue or have an idea? [Open an issue in this repository](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-overview/issues)
 
 Made for the vLLM community by Red Hat AI.
