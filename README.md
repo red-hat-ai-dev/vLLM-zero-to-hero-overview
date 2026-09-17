@@ -1,6 +1,6 @@
 <div align="center">
   <h1>vLLM Zero to Hero</h1>
-  <p><strong>Pillar 1: vLLM - From Zero to Production</strong></p>
+  <p><strong>vLLM: From Zero to Production</strong></p>
   <p>Learn vLLM through four practical steps: run a model, make it more efficient, measure its performance, and scale the workload.</p>
 </div>
 
