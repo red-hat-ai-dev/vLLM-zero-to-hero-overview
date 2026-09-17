@@ -7,6 +7,10 @@
 
 <br>
 
+<p align="center">
+  <img src="assets/vllm-journey.svg" alt="The vLLM Zero to Hero journey: Run, Optimize, Benchmark, and Scale" width="100%">
+</p>
+
 ## Choose your next step
 
 Each step has its own repository and hands-on tutorial. Open a repository to get started, then return here when you are ready for the next step.

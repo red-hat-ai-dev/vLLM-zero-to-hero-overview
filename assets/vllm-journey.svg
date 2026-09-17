@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 260" role="img" aria-labelledby="title description">
+  <title id="title">The vLLM Zero to Hero journey</title>
+  <desc id="description">Four steps: Run, Optimize, Benchmark, and Scale.</desc>
+
+  <rect x="1" y="1" width="1398" height="258" rx="24" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+
+  <text x="48" y="76" fill="#6e7781" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">THE VLLM JOURNEY</text>
+  <text x="48" y="112" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">From Zero to Production</text>
+  <text x="48" y="143" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="16">A practical path through AI inference</text>
+
+  <line x1="548" y1="151" x2="584" y2="151" stroke="#ee0000" stroke-width="3"/>
+  <line x1="808" y1="151" x2="844" y2="151" stroke="#ee0000" stroke-width="3"/>
+  <line x1="1068" y1="151" x2="1104" y2="151" stroke="#ee0000" stroke-width="3"/>
+
+  <g transform="translate(320 98)">
+    <rect width="228" height="106" rx="14" fill="#fff5f5" stroke="#ee0000" stroke-width="2"/>
+    <circle cx="30" cy="31" r="18" fill="#ee0000"/>
+    <text x="30" y="37" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">01</text>
+    <text x="60" y="37" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Run</text>
+    <text x="24" y="70" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">Start your first model</text>
+    <text x="24" y="90" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">with vLLM</text>
+  </g>
+
+  <g transform="translate(580 98)">
+    <rect width="228" height="106" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+    <circle cx="30" cy="31" r="18" fill="#57606a"/>
+    <text x="30" y="37" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">02</text>
+    <text x="60" y="37" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Optimize</text>
+    <text x="24" y="70" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">Make models faster</text>
+    <text x="24" y="90" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">and smaller</text>
+  </g>
+
+  <g transform="translate(840 98)">
+    <rect width="228" height="106" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+    <circle cx="30" cy="31" r="18" fill="#57606a"/>
+    <text x="30" y="37" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">03</text>
+    <text x="60" y="37" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Benchmark</text>
+    <text x="24" y="70" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">Understand endpoint</text>
+    <text x="24" y="90" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">performance</text>
+  </g>
+
+  <g transform="translate(1100 98)">
+    <rect width="228" height="106" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+    <circle cx="30" cy="31" r="18" fill="#57606a"/>
+    <text x="30" y="37" fill="#ffffff" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700">04</text>
+    <text x="60" y="37" fill="#24292f" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">Scale</text>
+    <text x="24" y="70" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">Move toward</text>
+    <text x="24" y="90" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="14">production</text>
+  </g>
+</svg>
