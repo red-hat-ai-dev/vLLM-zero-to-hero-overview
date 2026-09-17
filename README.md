@@ -2,7 +2,6 @@
   <h1>vLLM Zero to Hero</h1>
   <p><strong>Pillar 1: vLLM - From Zero to Production</strong></p>
   <p>Learn vLLM through four practical steps: run a model, make it more efficient, measure its performance, and scale the workload.</p>
-  <p><a href="https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1"><strong>Start with Part 1</strong></a></p>
 </div>
 
 <br>
