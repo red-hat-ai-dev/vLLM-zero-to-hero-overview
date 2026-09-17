@@ -17,20 +17,9 @@ Each step has its own repository and hands-on tutorial. Open a repository to get
 | | Focus | What you will do | Next step |
 | --- | --- | --- | --- |
 | **01 - Run** | **Run your first model with vLLM** | Get a model running and learn the fundamentals of serving with vLLM. | [**Run your first model**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1) |
-| **02 - Optimize** | **Make your models faster and smaller** | Use speculative decoding, quantization, and LLM Compressor to improve inference efficiency. | Coming soon |
+| **02 - Optimize** | **Make your models faster and smaller** | Use speculative decoding, quantization, and LLM Compressor to improve inference efficiency. | [**Optimize your model**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt2) |
 | **03 - Benchmark** | **Know how your model actually performs** | Use GuideLLM to test throughput, latency, and serving performance before you scale. | Coming soon |
 | **04 - Scale** | **Scale your inference workload** | Move from a single vLLM instance toward distributed serving with llm-d and Red Hat OpenShift AI. | Coming soon |
-
-## Start with Part 1
-
-Part 1 is the first hands-on experience in the series. You will:
-
-- Run a model locally with vLLM
-- Start an OpenAI-compatible API
-- Send your first request
-- See what is happening behind the scenes
-
-[**Open the Part 1 repository**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1)
 
 ## Who this is for
 
