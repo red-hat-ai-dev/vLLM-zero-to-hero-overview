@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/vllm-journey.svg" alt="The vLLM Zero to Hero journey: Run, Optimize, and Benchmark, followed by optional extra-credit lessons" width="100%">
+  <img src="assets/vllm-journey-extra-credit.svg" alt="The vLLM Zero to Hero journey: Run, Optimize, and Benchmark, followed by optional extra-credit lessons" width="100%">
 </p>
 
 ## Choose your next step
