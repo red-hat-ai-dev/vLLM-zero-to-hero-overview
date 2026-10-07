@@ -10,6 +10,8 @@
   <img src="assets/vllm-journey-extra-credit.svg" alt="The vLLM Zero to Hero journey: Run, Optimize, and Benchmark, followed by optional extra-credit lessons" width="100%">
 </p>
 
+See [tested support and validation](SUPPORT.md) for the exact platforms, versions, and remaining checks.
+
 ## Choose your next step
 
 Each step has its own repository and hands-on tutorial. Open a repository to get started, then return here when you are ready for the next step.
