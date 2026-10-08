@@ -30,9 +30,6 @@ supporting material. These are separate from the three core hands-on steps.
 | --- | --- | --- |
 | **Scale inference with llm-d** | Follow requests through inference-aware routing, cached prefixes, and separate prefill and decode workers. This visual explainer needs no cluster or multiple accelerators to follow. | [**Explore llm-d**](https://github.com/red-hat-ai-dev/vllm-zero-to-hero-extra-credit/tree/main/llm-d) |
 
-For a map of how the lessons fit together, read
-[Behind the scenes](docs/BEHIND_THE_SCENES.md).
-
 ## Who this is for
 
 This learning path is for anyone interested in learning how modern AI models are served with vLLM, whether you are exploring the topic for the first time or already working with inference systems.
