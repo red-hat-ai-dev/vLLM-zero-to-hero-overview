@@ -12,13 +12,18 @@
 
 ## Choose your next step
 
-Each step has its own repository and hands-on tutorial. Open a repository to get started, then return here when you are ready for the next step.
+Start with Part 1 and follow the links below in order. Each lesson has its own repository. When you finish a lesson, run `./stop.sh` in its directory, then `cd ..` before cloning the next one. This keeps the three checkouts side by side.
 
 | | Focus | What you will do | Next step |
 | --- | --- | --- | --- |
 | **01 - Run** | **Run your first model with vLLM** | Get a model running and learn the fundamentals of serving with vLLM. | [**Run your first model**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt1) |
 | **02 - Optimize** | **Make your models faster and smaller** | Use speculative decoding, quantization, and LLM Compressor to improve inference efficiency. | [**Optimize your model**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt2) |
 | **03 - Benchmark** | **Know how your model actually performs** | Use GuideLLM to measure throughput and latency, and lm-eval to compare accuracy. | [**Benchmark your model**](https://github.com/red-hat-ai-dev/vLLM-zero-to-hero-pt3) |
+
+We tested all three lessons on an NVIDIA RTX 3090 and an Apple M4 Pro, from the first API request in Part 1 through `./compare.sh` in Part 3.
+
+- On **x86-64 Linux with an NVIDIA GPU**, use Docker or Podman with NVIDIA Container Toolkit. In Part 2, serve the FP8 checkpoint and try speculative decoding. In Part 3, compare the baseline with the published FP8 model or your own Part 2 checkpoint.
+- On **Apple Silicon with macOS 15 or newer**, use native vLLM Metal. In Part 2, try speculative decoding with the MLX model. In Part 3, compare the BF16 and 4-bit MLX models. You can also create the Part 2 FP8 checkpoint on your Mac for use on a CUDA machine.
 
 ## Extra credit
 
